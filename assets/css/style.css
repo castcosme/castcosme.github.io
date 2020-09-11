@@ -405,6 +405,12 @@ body {
     .project .mobile-box-project {
       padding-top: 0px;
     }
+    .project-image {
+      width: 50px;
+    }
+    .project p {
+      font-size: 0.8rem;
+    }
   }
 
   /*Languages*/
